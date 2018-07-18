@@ -1,6 +1,6 @@
 FROM centos:7
 LABEL maintainer="mayi@live.com"
-LABEL Description="vsftpd Docker image based on Centos 7. Supports passive mode and virtual users." \
+LABEL Description="Based on fauria/docker-vsftpd. vsftpd Docker image based on Centos 7. Supports passive mode and virtual users." \
 	License="Apache License 2.0" \
 	Usage="docker run -d -p [HOST PORT NUMBER]:21 -v [HOST FTP HOME]:/home/vsftpd netant1983/vsftpd" \
 	Version="1.0"

@@ -1,10 +1,8 @@
 # netant1983/vsftpd
 
-![docker_logo](https://raw.githubusercontent.com/mayi/docker-vsftpd/master/docker_139x115.png)![docker_netant1983_logo](https://raw.githubusercontent.com/mayi/docker-vsftpd/master/docker_netant1983_161x115.png)
+![docker_logo](https://raw.githubusercontent.com/mayi/docker-vsftpd/master/docker_139x115.png)
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/netant1983/vsftpd.svg?style=plastic)](https://hub.docker.com/r/netant1983/vsftpd/)
-[![Docker Build Status](https://img.shields.io/docker/build/netant1983/vsftpd.svg?style=plastic)](https://hub.docker.com/r/netant1983/vsftpd/builds/)
-[![](https://images.microbadger.com/badges/image/netant1983/vsftpd.svg)](https://microbadger.com/images/netant1983/vsftpd "netant1983/vsftpd")
+[![Docker Pulls](https://img.shields.io/badge/dynamic/json.svg?label=docker%20pulls&url=https%3A%2F%2Fhub.docker.com%2Fv2%2Frepositories%2Fnetant1983%2Fvsftpd%2F&query=%24.pull_count)](https://hub.docker.com/r/netant1983/vsftpd/)
 
 This Docker container implements a vsftpd server, with the following features:
 
